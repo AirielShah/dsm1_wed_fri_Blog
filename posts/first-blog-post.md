@@ -1,10 +1,14 @@
 ---
-title: This is my first blog post!
-published_at: 2022-11-04T15:00:00.000Z
+title: Scavanger Hunt!!
+published_at: 2024-03-06T15:00:00.000Z
 snippet: This is an excerpt of my first blog post.
 ---
 
-Hello, world!
+Let's go scavanger hunt with us!
+
+---
+
+![The Scavanger Map](/w01s1/Scavanger hunt Map,jpg)
 
 # This is h1
 
