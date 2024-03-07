@@ -9,17 +9,55 @@ Let's go scavanger hunt with us
 
 ---
 
-## Lets see what we discover.
+## The task is to find the following hint places and take a group selfie as evidence.
 
-![The first stop of Scavanger Hunt](/static/w01s1/01.jpg)
-![The second stop of Scavanger Hunt](/static/w01s1/02.jpg)
-![The third stop of Scavanger Hunt](/static/w01s1/03.jpg)
-![The fifth stop of Scavanger Hunt](/static/w01s1/05.jpg)
-![The sixth stop of Scavanger Hunt](/static/w01s1/06.jpg)
-![The seventh stop of Scavanger Hunt](/static/w01s1/07.jpg)
-![The eighth stop of Scavanger Hunt](/static/w01s1/08.jpg)
-![The ninth stop of Scavanger Hunt](/static/w01s1/09.jpg)
-![The tenth stop of Scavanger Hunt](/static/w01s1/10.jpg)
+1. An explosive cup of coffee.
+2. A book containing Digital Media wisdom, found amongst many.
+3. A wide net strung above, bulging under the weight of its flying paper cargo.
+4. A curtain of roots, delivered by a winged visitor.
+5. A door for the condemned.
+6. A study space fit for a Sith Lord.
+7. The disembodied hands of a great ape.
+8. A basement-dwelling Black Box, bigger than you might think.
+9. A wide machine, dispensing beverages from a far away land.
+10. A golden globe atop a tower of eights.
+
+## Let's see what we discover.
+
+![The first stop of Scavenger Hunt](/static/w01s1/01.jpg)
+It's quite hard to find the Cafe, as we need to ask some others barista to guide us. Luckily, we find it!
+
+![The second stop of Scavenger Hunt](/static/w01s1/02.jpg)
+Next stop! We're going to the library, It's so big!!
+
+![The third stop of Scavenger Hunt](/static/w01s1/03.jpg)
+Find it outside the library, got lucky actually.
+
+Cannot find the fourth hint, so sad :(
+
+![The fifth stop of Scavenger Hunt](/static/w01s1/05.jpg)
+Need to walk a little bit farther to the Alumni Gardens/Park to find it.
+
+![The sixth stop of Scavenger Hunt](/static/w01s1/06.jpg)
+Not far from the Library area, who is the Star Wars Fan?!!
+
+![The seventh stop of Scavenger Hunt](/static/w01s1/07.jpg)
+Found this at Bowen Street, nice sculpture btw.
+
+![The eighth stop of Scavenger Hunt](/static/w01s1/08.jpg)
+Not sure if this is the right place, but there is the black box!
+
+![The ninth stop of Scavenger Hunt](/static/w01s1/09.jpg)
+Getting thirsty while searching, why not buy some drinks first?
+
+![The tenth stop of Scavenger Hunt](/static/w01s1/10.jpg)
+The only tower that had a gold globe in the area. There are some number 8 on top of the tower.
+
+## That is all from today's scavenger hunt.
+
+Here is the 30-second clip for my interest.
+
+[The Cafe opened by the beach](https://youtu.be/jlV9Of-jkTI.com)
 
 # This is h1
 
