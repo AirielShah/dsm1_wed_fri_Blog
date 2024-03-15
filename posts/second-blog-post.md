@@ -1,6 +1,6 @@
 ---
-title: My Melbourne Journey Blog!
-published_at: 2024-03-06T15:00:00.000Z
+title: My Second Journey Blog!
+published_at: 2024-03-15T15:00:00.000Z
 snippet: This is an excerpt of my first blog post.
 ---
 
