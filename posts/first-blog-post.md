@@ -2,6 +2,7 @@
 title: My First Journey Blog!
 published_at: 2024-03-06T15:00:00.000Z
 snippet: This is an excerpt of my first blog post.
+disable_html_sanitisation: true
 ---
 
 First Week session 1!
@@ -59,7 +60,7 @@ The only tower that had a gold globe in the area. There are some number 8 on top
 
 Here is the 30-second clip for my interest.
 
-[The Cafe opened by the beach](https://youtu.be/jlV9Of-jkTI.com)
+[The Cafe opened by the beach]()
 
 # This is h1
 

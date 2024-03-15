@@ -2,6 +2,7 @@
 title: My Second Journey Blog!
 published_at: 2024-03-15T15:00:00.000Z
 snippet: This is an excerpt of my first blog post.
+disable_html_sanitisation: true
 ---
 
 First Week session 1!
@@ -24,42 +25,13 @@ Let's go scavanger hunt with us
 
 ## Let's see what we discover.
 
-![The first stop of Scavenger Hunt](/static/w01s1/01.jpg)
-It's quite hard to find the Cafe, as we need to ask some others barista to guide us. Luckily, we find it!
 
-![The second stop of Scavenger Hunt](/static/w01s1/02.jpg)
-Next stop! We're going to the library, It's so big!!
-
-![The third stop of Scavenger Hunt](/static/w01s1/03.jpg)
-Find it outside the library, got lucky actually.
-
-Cannot find the fourth hint, so sad :(
-
-![The fifth stop of Scavenger Hunt](/static/w01s1/05.jpg)
-Need to walk a little bit farther to the Alumni Gardens/Park to find it.
-
-![The sixth stop of Scavenger Hunt](/static/w01s1/06.jpg)
-Not far from the Library area, who is the Star Wars Fan?!!
-
-![The seventh stop of Scavenger Hunt](/static/w01s1/07.jpg)
-Found this at Bowen Street, nice sculpture btw.
-
-![The eighth stop of Scavenger Hunt](/static/w01s1/08.jpg)
-Not sure if this is the right place, but there is the black box!
-
-![The ninth stop of Scavenger Hunt](/static/w01s1/09.jpg)
-Getting thirsty while searching, why not buy some drinks first?
-
-![The tenth stop of Scavenger Hunt](/static/w01s1/10.jpg)
-The only tower that had a gold globe in the area. There are some number 8 on top of the tower.
-
-![The Scavenger Hunt Map](/static/w01s1/Scavenger Hunt Map.jpg)
 
 ## That is all from today's scavenger hunt.
 
 Here is the 30-second clip for my interest.
 
-[The Cafe opened by the beach](https://youtu.be/jlV9Of-jkTI.com)
+[The Cafe opened by the beach]()
 
 # This is h1
 
