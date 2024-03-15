@@ -53,6 +53,8 @@ Getting thirsty while searching, why not buy some drinks first?
 ![The tenth stop of Scavenger Hunt](/static/w01s1/10.jpg)
 The only tower that had a gold globe in the area. There are some number 8 on top of the tower.
 
+![The Scavenger Hunt Map](/static/w01s1/Scavenger Hunt Map.jpg)
+
 ## That is all from today's scavenger hunt.
 
 Here is the 30-second clip for my interest.
