@@ -24,7 +24,7 @@ Let's go scavanger hunt with us
 
 ## Let's see what we discover.
 
-![The first stop of Scavenger Hunt](01.jpg)
+![The first stop of Scavenger Hunt](/static/w01s1/01.jpg)
 It's quite hard to find the Cafe, as we need to ask some others barista to guide us. Luckily, we find it!
 
 ![The second stop of Scavenger Hunt](/static/w01s1/02.jpg)
@@ -53,7 +53,7 @@ Getting thirsty while searching, why not buy some drinks first?
 ![The tenth stop of Scavenger Hunt](/static/w01s1/10.jpg)
 The only tower that had a gold globe in the area. There are some number 8 on top of the tower.
 
-![The Scavenger Hunt Map](/static/w01s1/ScavengerHuntMap.jpg)
+![The Scavenger Hunt Map](/static/w01s1/Scavenger Hunt Map.jpg)
 
 ## That is all from today's scavenger hunt.
 
