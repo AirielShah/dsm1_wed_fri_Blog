@@ -60,7 +60,7 @@ The only tower that had a gold globe in the area. There are some number 8 on top
 
 Here is the 30-second clip for my interest.
 
-[The Cafe opened by the beach]()
+[The Cafe by the beach](<iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=0CiXkXqIR8lNJ82z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
 
 # This is h1
 
