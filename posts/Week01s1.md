@@ -70,7 +70,7 @@ Here is the 30-second clip for my interest.
 
 Cafe at St Kilda Beach
 
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=eCuTb9FfuHMdl_vx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=eCuTb9FfuHMdl_vx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
