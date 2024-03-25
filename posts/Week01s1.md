@@ -67,7 +67,13 @@ Here is the 30-second clip for my interest.
 
 Cafe at St Kilda Beach
 
+<html>
+<body>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=zLxWPHGj7oiZiLSW"></iframe>
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
+
+<body>
+<html>
