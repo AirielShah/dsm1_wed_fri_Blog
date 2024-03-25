@@ -1,9 +1,9 @@
 ---
-title: My Third Journey Blog!
+title: My Fifth Class Blog!
 published_at: 2024-03-15T15:00:00.000Z
 snippet: This is an excerpt of my third blog post.
 disable_html_sanitisation: true
----
+---[text](third-blog-post.md)
 
 First Week session 1!
 Let's go scavanger hunt with us
