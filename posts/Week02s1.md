@@ -3,6 +3,7 @@ title: My Third Class Blog!
 published_at: 2024-03-15T15:00:00.000Z
 snippet: This is an excerpt of my third blog post.
 disable_html_sanitisation: true
+allow_math: true
 ---
 
 Trying editing clips using Premier Pro using the 30 seconds clips.

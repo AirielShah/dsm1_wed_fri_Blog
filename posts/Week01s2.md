@@ -2,7 +2,8 @@
 title: My Second Class Blog!
 published_at: 2024-03-08T15:00:00.000Z
 snippet: This is an excerpt of my second blog post.
-disable_html_sanitisation: true
+disable_html_sanitization: true
+allow_math: true
 ---
 
 Trying editing clips using Premier Pro using the 30 seconds clips.

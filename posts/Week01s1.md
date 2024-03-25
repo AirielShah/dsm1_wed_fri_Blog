@@ -3,18 +3,18 @@ title: My First Class Blog!
 published_at: 2024-03-06T15:00:00.000Z
 snippet: This is an excerpt of my first blog post.
 disable_html_sanitization: true
-
+allow_math: true
 ---
 
 First Week session 1!
 
-## Class Task
+# Class Task
 
 Let's go scavanger hunt with us
 
 ---
 
-# The task is to find the following hint places and take a group selfie as evidence.
+## The task is to find the following hint places and take a group selfie as evidence.
 
 1. An explosive cup of coffee.
 2. A book containing Digital Media wisdom, found amongst many.
@@ -60,15 +60,17 @@ The only tower that had a gold globe in the area. There are some number 8 on top
 
 ![The Scavenger Hunt Map](/images/Scavenger%20Hunt%20Map.jpg)
 
-# That is all from today's scavenger hunt.
+## That is all from today's scavenger hunt.
 
-## Assignment Task
+---
+
+# Assignment Task
 
 Here is the 30-second clip for my interest.
 
 Cafe at St Kilda Beach
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=zLxWPHGj7oiZiLSW"></iframe>
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=eCuTb9FfuHMdl_vx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+
+---
