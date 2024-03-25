@@ -2,7 +2,7 @@
 title: My First Class Blog!
 published_at: 2024-03-06T15:00:00.000Z
 snippet: This is an excerpt of my first blog post.
-disable_html_sanitisation: True
+
 ---
 
 First Week session 1!
