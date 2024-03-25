@@ -65,7 +65,7 @@ The only tower that had a gold globe in the area. There are some number 8 on top
 
 Here is the 30-second clip for my interest.
 
-![Cafe at St Kilda Beach](<iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=zLxWPHGj7oiZiLSW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+[Cafe at St Kilda Beach](<iframe width="560" height="315" src="https://www.youtube.com/embed/jlV9Of-jkTI?si=zLxWPHGj7oiZiLSW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>)
 
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
