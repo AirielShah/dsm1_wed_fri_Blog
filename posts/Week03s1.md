@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-Second Week session 2!
+Third Week session 1!
 
 **Class Task**
 

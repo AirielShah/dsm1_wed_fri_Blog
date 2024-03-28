@@ -24,116 +24,98 @@ Storyboard structure and explanation on your editing contribute to main theme, c
 
 Scene 1:
 ![](/images/week2s2/Stb_01.jpg)
-Shot: Wide shot
-
-Action: Tram station and moving tram.
-
-Sound/Time: Tram bell/ 6 seconds
+- Shot: Wide shot
+- Action: Tram station and moving tram.
+- Sound/Time: Tram bell/ 6 seconds
 
 Scene 2:
 ![](/images/week2s2/Stb_02.jpg)
-Shot: Medium shot
-
-Action: Moving tram, people talking
-
-Sound/Time: Tram running/ 6 seconds
+- Shot: Medium shot
+- Action: Moving tram, people talking
+- Sound/Time: Tram running/ 6 seconds
 
 Scene 3:
 ![](/images/week2s2/Stb_03.jpg)
-Shot: Wide shot
-
-Action: View of China town & convenience store
-
-Sound/Time: people talking/ 6 seconds
+- Shot: Wide shot
+- Action: View of China town & convenience store
+- Sound/Time: people talking/ 6 seconds
 
 Scene 4:
 ![](/images/week2s2/Stb_04.jpg)
-Shot: Wide shot & close up
-
-Action: View of statue at yarra river
-
-Sound/Time: people walking/ 6 seconds
+- Shot: Wide shot & close up
+- Action: View of statue at yarra river
+- Sound/Time: people walking/ 6 seconds
 
 Scene 5:
 ![](/images/week2s2/Stb_05.jpg)
-Shot: medium close up
-
-Action: mirror record of myself walking
-
-Sound/Time: ambient noise/ 6 seconds
+- Shot: medium close up
+- Action: mirror record of myself walking
+- Sound/Time: ambient noise/ 6 seconds
 
 Scene 6:
 ![](/images/week2s2/Stb_06.jpg)
-Shot: Close up
-
-Action: View of Cafe table, self recorded using tripod
-
-Sound/Time: people talking/ 6 seconds
+- Shot: Close up
+- Action: View of Cafe table, self recorded using tripod
+- Sound/Time: people talking/ 6 seconds
 
 Scene 7:
 ![](/images/week2s2/Stb_07.jpg)
-Shot: Wide shot
-
-Action: View of Hosier Lane
-
-Sound/Time: people walking, Tram bells/ 6 seconds
+- Shot: Wide shot
+- Action: View of Hosier Lane
+- Sound/Time: people walking, Tram bells/ 6 seconds
 
 Scene 8:
 ![](/images/week2s2/Stb_08.jpg)
-Shot: Medium shot
-
-Action: myself walking at Hosier Lane, recorded using tripod
-Sound/Time: people walking/ 6 seconds
+- Shot: Medium shot
+- Action: myself walking at Hosier Lane, recorded using tripod
+- Sound/Time: people walking/ 6 seconds
 
 Scene 9:
 ![](/images/week2s2/Stb_09.jpg)
-Shot: Wide shot
-
-Action: cont. shots of myself walking at the beach
-Sound/Time: beach and wave noise/ 6 seconds
+- Shot: Wide shot
+- Action: cont. shots of myself walking at the beach
+- Sound/Time: beach and wave noise/ 6 seconds
 
 Scene 10:
 ![](/images/week2s2/Stb_10.jpg)
-Shot: close up
-
-Action: shots of person walking at the beach shore.
-
-Sound/Time: wave noise/ 6 seconds
+- Shot: close up
+- Action: shots of person walking at the beach shore.
+- Sound/Time: wave noise/ 6 seconds
 
 Scene 11:
 ![](/images/week2s2/Stb_11.jpg)
-Shot: Wide shot
-
-Action: View of multiple people hanging aroud at beach
-
-Sound/Time: people talking/ 6 seconds
+- Shot: Wide shot
+- Action: View of multiple people hanging aroud at beach
+- Sound/Time: people talking/ 6 seconds
 
 Scene 12:
 ![](/images/week2s2/Stb_12.jpg)
-Shot: Wide shot
-
-Action: View of birds
-
-Sound/Time: wave noise/ 6 seconds
+- Shot: Wide shot
+- Action: View of birds
+- Sound/Time: wave noise/ 6 seconds
 
 Scene 13:
 ![](/images/week2s2/Stb_13.jpg)
-Shot: Wide shot
-
-Action: View of sunset at St Kilda Beach
-
-Sound/Time: wave noise/ 6 seconds
+- Shot: Wide shot
+- Action: View of sunset at St Kilda Beach
+- Sound/Time: wave noise/ 6 seconds
 
 ---
 
 Here the details explanation of Self-portrait assignment.
 
 
-**Theme**
-
+**Concept**
 - Self-reflect on myself being an international student in Melbourne, Australia.
 - From the assignment, this video will tell the story of my interest, background, and lifestyle.
 
-**Concept**
+**Theme**
+- The theme of this clip will be homely and comforting while adjusting to the environment.
+- Giving the sense of calm and relax.
 
-- The concept if this clip will be 
+**Audience impact**
+- Calming
+- Intrigue
+- Mesmerised
+
+---
