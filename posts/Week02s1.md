@@ -38,16 +38,16 @@ All footage for this project must be shot by you, should be of a consistent qual
 
 Here are the storyline:
 
-Scene 1: A clip represents my journey to a new place starting a huge impact on my life.
-Scene 2: Being in the beautiful city of Melbourne for the first time.
-Scene 3: Finding a culture that's come from my origin country to feels like home.
-Scene 4: Looking out for my interest in art and design.
-Scene 5: Finding myself recording and portraying in the frame.
-Scene 6: Hanging around the Cafe and enjoy doing my stuff.
-Scene 7: Exploring the city and finding a new place for Instagram pictures.
-Scene 8: Walking at the beach and finding comfort.
-Scene 9: Hanging around with friends to share a story.
-Scene 10: Capture some birds flying free in the sky.
-Scene 11: Ending the video with sunset.
+1. Scene 1: A clip represents my journey to a new place starting a huge impact on my life.
+2. Scene 2: Being in the beautiful city of Melbourne for the first time.
+3. Scene 3: Finding a culture that's come from my origin country to feels like home.
+4. Scene 4: Looking out for my interest in art and design.
+5. Scene 5: Finding myself recording and portraying in the frame.
+6. Scene 6: Hanging around the Cafe and enjoy doing my stuff.
+7. Scene 7: Exploring the city and finding a new place for Instagram pictures.
+8. Scene 8: Walking at the beach and finding comfort.
+9. Scene 9: Hanging around with friends to share a story.
+10. Scene 10: Capture some birds flying free in the sky.
+11. Scene 11: Ending the video with sunset.
 
 For the storybords, will share to you on next week class session.

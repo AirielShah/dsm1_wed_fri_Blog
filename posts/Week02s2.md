@@ -126,3 +126,14 @@ Sound/Time: wave noise/ 6 seconds
 
 ---
 
+Here the details explanation of Self-portrait assignment.
+
+
+**Theme**
+
+- Self-reflect on myself being an international student in Melbourne, Australia.
+- From the assignment, this video will tell the story of my interest, background, and lifestyle.
+
+**Concept**
+
+- The concept if this clip will be 

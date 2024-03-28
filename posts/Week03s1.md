@@ -6,28 +6,54 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-Trying editing clips using Premier Pro using the 30 seconds clips.
+Second Week session 2!
+
+**Class Task**
+
+*Editing technique*
+
+Using the recorded clips from todays class, try adding some background music and sound to match the concept and theme of the video.
+
+*Theme,concept*
+
+1. Mellows/sorrow
+2. Being left out/ alone
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/283ucaUNkz0?si=x_wWtJWvlJ-B7-X1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## The task is to experimenting the clip using Premier Pro.
+**Assignment Task**
 
+Here the draft clips of my Self-portrait video following the concept and theme discussed last week.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ju24aFAN7YY?si=2BtU1tBoPZqerrVl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Let's see what we discover.
+COMM2749: Digital Media Studio 1: Production (Assignment 1) [Draft]
 
+Music credit:
+Reverie by Scott Buckley | https://www.scottbuckley.com.au
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/...
 
+Wave sound | https://freesound.org/people/klankbee...
 
-## That is all from today's scavenger hunt.
+---
 
-Here is the 30-second clip for my interest.
+**Assignment 1 - Self-portrait video**
 
-[The Cafe opened by the beach]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLE2gj1W1t4?si=UYZy9tY22u_TWxI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# This is h1
+This is Digital Media Studio 1, Assignment 1 (Self-portrait video)
 
-## This is h2
+Music credit/copyright ownership to:
 
-_underline_
+- Reverie by Scott Buckley | www.scottbuckley.com.au
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/...
+- Pigeons Under Bridge.wav by theplax -- https://freesound.org/s/608899/ -- License: Attribution 4.0
+- waves sand beach 001.wav by klankbeeld -- https://freesound.org/s/627673/ -- License: Attribution 4.0
 
-**bold**
+---
