@@ -1,6 +1,6 @@
 ---
-title: My Forth Class Blog!
-published_at: 2024-03-15T15:00:00.000Z
+title: My is my blog post for week 2 session 2!
+published_at: 2024-03-20T15:00:00.000Z
 snippet: This is an excerpt of my third blog post.
 disable_html_sanitization: true
 allow_math: true
