@@ -118,4 +118,33 @@ Here the details explanation of Self-portrait assignment.
 - Intrigue
 - Mesmerised
 
+**Time Duration**
+- 2 minutes duration of clips in total.
+- 4-7 seconds of each clips/scene.
+
+**Audio/Sound & Background music**
+- Calming energy
+- Reverie by Scott Buckley | www.scottbuckley.com.au Music promoted by https://www.chosic.com/free-music/all/ Creative Commons CC BY 4.0 https://creativecommons.org/licenses/...
+- Additional sound
+    1. Pigeons Under Bridge.wav by theplax -- https://freesound.org/s/608899/ -- License: Attribution 4.0
+    2. waves sand beach 001.wav by klankbeeld -- https://freesound.org/s/627673/ -- License: Attribution 4.0
+
+**Video transitions**
+- Cut/Match cut
+- Cross fade (Between some scene)
+- Fade to black/white (Intro and outro of video)
+
+**Audio transitions**
+- Adjustment level of audio
+- J & L cut (between scene)
+
+**Location of shooting**
+- Melbourne City
+- China town, Melbourne
+- Yarra riverside
+- St Kilda beach
+- Queen Victoria market
+
+
+
 ---
