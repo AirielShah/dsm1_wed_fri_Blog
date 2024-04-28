@@ -14,7 +14,7 @@ Fifth Week session 1!
 
 For this class session task, we were give image of Edward Hopper painting to trace and recreate using pen tools in Adobe Illustrator.
 
-![](/images/at2images/w5s1_edhopper_automat.png)
+![](/images/at2images/w5s1_edhopper_automat.jpg)
 
 
 The task for todays class is to practice tracing using pen tools and playing with Adobe Illustrator.

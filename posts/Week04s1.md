@@ -30,7 +30,7 @@ The task for today class is to understand the composition of shapes to represent
 
 From the assignment 2 task, I choose "Future" as my concept to create a webpage for counseling service website/applications. All the brainstorming ideas was done in a mindmap below.
 
-![](/images/at2images/w4s1_mindmap.png)
+![](/images/at2images/w4s1_mindmap.jpg)
 
 All the concept, platform, and audience was choose to specify my idea throughout this assignment 2 task.
 
