@@ -14,7 +14,7 @@ Fourth Week session 2!
 
 For this class session task, we were give 10 minutes to complete 20 icon sketch and choose any ideas/topic to traditionaly sketch.
 
-![](/images/at2images/w4s2_logo_sketch_task.jpg)
+![](/images/at2images/w4s2_logo_sketch_task.jpeg)
 
 
 The task for todays class is to learn how to quick sketch the icon for one (1) ideas as they can be multiple thing repesent in shapes and logo. The more we sketch, the better we can choose and develop from it. As my topic for this task is "nature" it can represent in more than 20 icon or logo that can be translate into different meanings.
