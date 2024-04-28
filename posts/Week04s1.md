@@ -10,50 +10,29 @@ Fourth Week session 1!
 
 **Class Task**
 
-*Adobe illustrator *
+*Adobe illustrator*
 
-Using the recorded clips from todays class, try adding some background music and sound to match the concept and theme of the video.
+From template given, using only four black squares per thumbnail box, produce a range of compositions that express the words listed on the Illustrator document. Once filled all the box, choose (1) that represent the criteria.
 
-*Theme,concept*
+![](/images/at2images/w4s1_block1.png)
 
-1. Mellows/sorrow
-2. Being left out/ alone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/283ucaUNkz0?si=x_wWtJWvlJ-B7-X1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+The final compositions that express the words listed.
+
+![](/images/at2images/w4s1_block2.png)
+
+
+The task for today class is to understand the composition of shapes to represent the idea of description listed. One we understand the meaning of the words, we can manage to show the meaning through the shapes and compositions. Also, we learned about how to use Adobe Illustrator as our tools to create and develop the ideas as a designers.
 
 ---
 
 **Assignment Task**
 
-Here the draft clips of my Self-portrait video following the concept and theme discussed last week.
+From the assignment 2 task, I choose "Future" as my concept to create a webpage for counseling service website/applications. All the brainstorming ideas was done in a mindmap below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ju24aFAN7YY?si=2BtU1tBoPZqerrVl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](/images/at2images/w4s1_mindmap.png)
 
-COMM2749: Digital Media Studio 1: Production (Assignment 1) [Draft]
+All the concept, platform, and audience was choose to specify my idea throughout this assignment 2 task.
 
-Music credit:
-Reverie by Scott Buckley | https://www.scottbuckley.com.au
-Music promoted by https://www.chosic.com/free-music/all/
-Creative Commons CC BY 4.0
-https://creativecommons.org/licenses/...
-
-Wave sound | https://freesound.org/people/klankbee...
-
----
-
-**Assignment 1 - Self-portrait video**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jLE2gj1W1t4?si=UYZy9tY22u_TWxI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-This is Digital Media Studio 1, Assignment 1 (Self-portrait video)
-
-Music credit/copyright ownership to:
-
-- Reverie by Scott Buckley | www.scottbuckley.com.au
-Music promoted by https://www.chosic.com/free-music/all/
-Creative Commons CC BY 4.0
-https://creativecommons.org/licenses/...
-- Pigeons Under Bridge.wav by theplax -- https://freesound.org/s/608899/ -- License: Attribution 4.0
-- waves sand beach 001.wav by klankbeeld -- https://freesound.org/s/627673/ -- License: Attribution 4.0
 
 ---
