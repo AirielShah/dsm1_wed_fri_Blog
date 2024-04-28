@@ -23,16 +23,20 @@ From the screen shot above, we record some audio and edit it using Adobe Auditio
 
 **Assignment Task**
 
-After the colour arrangement on one icon, I'll continue with others icon design using the same colour pallet. The ideas is to have a simmilar profile of icon for the website. 
+As the icon design completely uploaded into the website page, it's time to add a background sound effect to each button. My using adobe Audition, we edit the sound we record and enhance it using denoise effect.
 
-![](/images/at2images/w5s2_colour_arrangement1.png)
+![](/images/at2images/w6s1_adobe_audition.png)
 
-![](/images/at2images/w5s2_colour_arrangement2.png)
+We keep recording untill we got nine (9) sound effect for each icon represented.
 
-![](/images/at2images/w5s2_colour_arrangement3.png)
+---
+
+**Assignment 2 - Responsive graphic icon**
 
 
-I'll keep revisit the mindmap to keep the platform, context and audience of my ideas in the same planning as my brainstorming. Some adjustment was made to reflect the project development.
+This is Digital Media Studio 1, Assignment 2 (Responsive graphic icon)
+
+[Click here to view!](https://airielshah-dms1-at2.deno.dev/)
 
 
 ---
