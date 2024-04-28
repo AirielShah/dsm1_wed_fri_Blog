@@ -14,11 +14,9 @@ Sixth Week session 1!
 
 To make the icon more interactive other than changing design when hove. Putting some audio in each icon when clicking the icon can give an impact to users.
 
-![](/images/at2images/w5s2_website_code.png)
+![](/images/at2images/w6s1_audio_recording.png)
 
-![](/images/at2images/w5s2_website_icon.png)
-
-From the screen shot above, we can see how the icon being placed and used for the next action.
+From the screen shot above, we record some audio and edit it using Adobe Audition to enhance the volume and reduce the noise background. After selected the part of the audio, we save it in mp3 format to be used in icon design.
 
 
 ---
