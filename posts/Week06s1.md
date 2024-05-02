@@ -33,7 +33,7 @@ We keep recording untill we got nine (9) sound effect for each icon represented.
 *Icon Explaination*
 
 <body>
-        <div class="row">
+        <div class=>
             <div class="image-container"><img src="images/original/0.svg" height="200" width="200"/></div>
             <div class="image-container"><img src="images/changed/0.svg" height="200" width="200"/></div>
         </div>
