@@ -29,6 +29,16 @@ As the icon design completely uploaded into the website page, it's time to add a
 
 We keep recording untill we got nine (9) sound effect for each icon represented.
 
+
+*Icon Explaination*
+
+<body>
+        <div class="row">
+            <div class="image-container"><img src="images/original/0.svg" height="200" width="200"/></div>
+            <div class="image-container"><img src="images/changed/0.svg" height="200" width="200"/></div>
+        </div>
+</body>
+
 ---
 
 **Assignment 2 - Responsive graphic icon**
