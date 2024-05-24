@@ -65,8 +65,20 @@ We keep recording untill we got nine (9) sound effect for each icon represented.
 **6. Growth**
 <div class="image-container"><img src="images/changed/5.svg" height="200" width="200"/></div>
 
-- How a comunity serve you in the future and their services towards humanity and technology. 
-- Background sound: xylophone tune (apps turning on/correct answer)
+- Future growt of a plant reflecting how human growth through the time.
+- Background sound: clicking tune (apps turning on/correct answer)
+
+**7. Tarot cards**
+<div class="image-container"><img src="images/changed/6.svg" height="200" width="200"/></div>
+
+- Tarot card use to spark conversations, inspire ideas, and reveal new perspectives,
+- Background sound: card swipe
+
+**8. Tarot cards**
+<div class="image-container"><img src="images/changed/6.svg" height="200" width="200"/></div>
+
+- Tarot card use to spark conversations, inspire ideas, and reveal new perspectives,
+- Background sound: card swipe
 
 ---
 
