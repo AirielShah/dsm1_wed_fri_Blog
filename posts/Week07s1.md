@@ -8,7 +8,7 @@ allow_math: true
 
 Week 7, session 1!
 
-## **Class Task**
+### Class Task
 
 **Setting up Unity software**
 
@@ -21,7 +21,7 @@ In getting familiar with the system, we were told to experiment with the tools a
 
 ---
 
-## **Assignment Task**
+### Assignment Task
 
 The idea of this 3D Digital Environment Design is to create something meaningful change or transformation experience that I have undergone. The idea of this was to experience how the phase of grief/depression was passed by. The Map will be divided into several phases of the journey that most teenagers undergo when they get older.
 
