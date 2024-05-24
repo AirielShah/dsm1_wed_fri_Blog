@@ -74,11 +74,11 @@ We keep recording untill we got nine (9) sound effect for each icon represented.
 - Tarot card use to spark conversations, inspire ideas, and reveal new perspectives,
 - Background sound: card swipe
 
-**8. Tarot cards**
-<div class="image-container"><img src="images/changed/6.svg" height="200" width="200"/></div>
+**8. Financial**
+<div class="image-container"><img src="images/changed/7.svg" height="200" width="200"/></div>
 
-- Tarot card use to spark conversations, inspire ideas, and reveal new perspectives,
-- Background sound: card swipe
+- The coin and plant represent the financial growth in managing the saving for future.
+- Background sound: coin in the jar
 
 ---
 
