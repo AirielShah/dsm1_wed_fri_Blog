@@ -35,7 +35,7 @@ Here are the list of asset and element that will be imported to the layout for t
 - Asset: Beach Hut, Jetty platform, Sand, and Tree.
 - SFX: Wave sound with birds
 
-2. **The Depression Forrest**
+2. **The Depression Forest**
 - Theme: Dark forrest
 - Asset: Dead tree, Old monument, Old statue, Skull, and Abandone place.
 - SFX: Sad song, crying and piano keys

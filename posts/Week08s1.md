@@ -33,7 +33,7 @@ For this layout, there gonna be four (4) gates/entrance to make sure the player 
 1. **The Journey Beach**
 ![](/images/at3images/w8s1_gate1.png)
 
-2. **The Depression Forrest**
+2. **The Depression Forest**
 ![](/images/at3images/w8s1_gate2.png)
 
 3. **The Redemption City**
