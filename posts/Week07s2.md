@@ -23,16 +23,37 @@ With this knowledge, the first step of creating the base layout can be started a
 
 ### Assignment Task
 
-For the assignment homework task, I list down all the charateristic and element that i would like to be included in the layout. All items like element, shapes, and 
+For the assignment homework task, I list down all the charateristic and element that i would like to included in the layout. All items like element, asset, and environment design was searched up on Google and Pinterest for inspiration.
 
-Below are the suggestion on how the Map Layout would be looks like.
-
-![](/images/at3images/w7s1_sketch1.jpg)
+The asset for this assignment was collected and downloaded from Sketchfab site and others 3D models site. Some of the environment design was imported from Unity asset store site.
 
 
-And here are the finalize of Map Layout for the assignment 3.
+Here are the list of asset and element that will be imported to the layout for this assignment.
 
-![](/images/at3images/w7s1_sketch2.jpg)
+1. **The Journey Beach**
+- Theme: Beach side
+- Asset: Beach Hut, Jetty platform, Sand, and Tree.
+- SFX: Wave sound with birds
+
+2. **The Depression Forrest**
+- Theme: Dark forrest
+- Asset: Dead tree, Old monument, Old statue, Skull, and Abandone place.
+- SFX: Sad song, crying and piano keys
+
+3. **The Redemption City**
+- Theme: City life
+- Asset: Road, Tall building, Light pole, Traffic light and Signboards.
+- SFX: Upbeat music
+
+4. **The Glory Mountain**
+- Theme: Trail up to mountain
+- Asset: Wood trail, Trees, and Pink grass.
+- SFX: Chill and inspiring music
+
+
+After decided all the asset and element, we create a simple greybox prototype for reference and guidance for the Assignment 3. The greybox design will be used for the next class task.
+
+![](/images/at3images/w7s2_Greybox.png)
 
 
 ---
