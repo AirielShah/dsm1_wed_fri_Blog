@@ -21,7 +21,7 @@ In making the scenery more emotionaly impact, adding sound effect or background 
 
 ### Assignment Task
 
-From the class task learned, we are required to add background sound into our scenery and object. This tool will help the player to understand the emotion and phase more clearly.
+From the class task learned, we are required to add background sound into our scenery and object. This tool will help the player to understand the emotion and environment more clearly.
 
 ![](/images/at3images/w8s2_soundcontrol2.png)
 
